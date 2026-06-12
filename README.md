@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a 15-year-old developer based in Johannesburg, South Africa. I’m deeply passionate about technology and the endless possibilities it creates. What started as simple curiosity has turned into a strong drive to understand how software works, how systems connect, and how I can build things that people actually use and enjoy.
+I'm a 15 year old developer based in Johannesburg, South Africa. I’m deeply passionate about technology and the endless possibilities it creates. What started as simple curiosity has turned into a strong drive to understand how software works, how systems connect, and how I can build things that people actually use and enjoy.
 
 I’m the kind of person who doesn’t just want to use technology — I want to **understand it, improve it, and create it**. Whether it's writing my first lines of code, debugging a problem, or experimenting with new ideas, I enjoy every part of the process.
 
